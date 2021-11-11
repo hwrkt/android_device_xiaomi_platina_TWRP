@@ -1,0 +1,8 @@
+ro.product.brand=xiaomi
+ro.product.name=platina
+ro.product.device=platina
+ro.product.mod_device=platina_global
+ro.product.board=sdm660
+ro.board.platform=sdm660
+ro.build.product=platina
+ro.treble.enabled=true
